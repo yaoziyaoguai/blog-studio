@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blog Studio"
+  short_description: "Research and write thoughtful technology blogs"
+  default_prompt: "Use $blog-studio to turn my materials into a clear, substantive technology blog."

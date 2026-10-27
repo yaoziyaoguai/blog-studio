@@ -1,0 +1,9 @@
+# Natural expression
+
+Read the draft as the intended reader, then revise passages that are vague, repetitive, inflated or hard to follow. Prefer the concrete claim, mechanism or consequence to a staged introduction, unsupported importance, false contrast or repeated conclusion. These are signals to inspect in context, not a blacklist. Keep real contrasts, meaningful summaries, intentional rhythm and an author's supported attitude or humor. Do not force first person, slang, short sentences, a particular punctuation style or an analogy.
+
+Follow the article's main question: does each passage add an explanation, example, evidence, necessary qualification or consequence? Give complex reasoning enough room. Use the same term for the same technical concept and establish unfamiliar ideas before relying on them. When an analogy helps, preserve the relevant difference without crowding the explanation with irrelevant caveats. Meaningful limitations belong where they affect the reader's understanding; avoid repeating defensive qualifications throughout.
+
+Check edits against the source: facts, numbers, code, names, quotations, links, negation, exceptions, comparisons, version and operating conditions, attribution, uncertainty and the author's position take precedence over style. Do not turn correlation into causation, plans into completed work, or possibility into certainty. Don't infer an unknown actor or manufacture an experience to sound personal. Preserve the user's requested scope, locked text, and protected code, commands, paths, identifiers and data. When a passage already works, leave it alone.
+
+The reader-facing article is not a production report. Remove comments such as “this section was added” or “the author has no firsthand experience.” State an evidence limitation naturally only when it changes the conclusion; keep research gaps and editorial notes outside the article. Do not use a pattern count, self-score or AI detector as a quality test.
