@@ -1,0 +1,9 @@
+# Whole-article editing and tutorials
+
+Input: a complete draft, proposed revision, or practical tutorial. Read once for the reader's question, then compare the title and opening's promise with what the body actually establishes. A title promising a benchmark needs measured comparisons; if none exist, narrow the title or obtain evidence. Check each paragraph's contribution and sequence: does it introduce an idea before using it, establish a claim, show evidence, address an objection or draw a consequence? Remove repetition only when it carries no distinct meaning. Trace an example through the claim: is it representative enough for that conclusion, or merely an illustration? Note unsupported leaps and competing explanations.
+
+Rank fixes by consequence: factual or logical errors and missing evidence first, then structure and examples, then wording and rhythm. Preserve voice, locks and requested edit scope. Produce a coherent draft and, when useful, a short external note identifying unresolved evidence; check each material claim against its source and re-read the opening after revision. Do not dump an internal scorecard into the article.
+
+For a tutorial, state prerequisites and versions that affect the steps. Make steps reproducible in order, show a meaningful expected result and how to diagnose a likely failure using evidence rather than guessing. Execute locally only when safe and authorized; distinguish tested output from illustrative output. Check that a reader can move from prerequisites to the result without missing commands or hidden assumptions.
+
+Example: a single successful request can show that a configuration started; it cannot show throughput improved. Either run a relevant comparison or recast the piece as a startup walkthrough. A polished conclusion asserting faster throughput is not a repair.
